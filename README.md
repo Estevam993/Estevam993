@@ -1,13 +1,6 @@
 💼 Professional Summary
 Fullstack Developer passionate about building scalable and efficient systems using modern technologies like JavaScript, React.js, Next.js, and Nest.js. Experience in both backend and frontend development, with strong focus on clean code, performance optimization, and continuous learning.
 
-🛠️ Tech Stack
-Languages & Tools: JavaScript, PHP, TypeScript, React.js, Next.js, Nest.js, MySQL, SQL Server
-
-Currently Learning: Nest.js, TypeScript
-
-Skills: Fullstack development, code optimization, module creation, system maintenance
-
 🧑‍💻 Experience
 Teltex Tecnologia
 
